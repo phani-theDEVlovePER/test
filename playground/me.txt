@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ramcharan
+Skills: HTML, CSS, JS, React.js, DBMS, Photoshop, Tailwind Css, Bootstraps 
+Email: ramcharanphani@gmail.com
+{{/user}}
